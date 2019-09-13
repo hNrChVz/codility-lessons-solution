@@ -13,7 +13,7 @@ Happy coding and enjoy!
 
 ## LESSONS AND TASKS
 #### 01 - Iterations
-- [ ] - BinaryGap
+- [x] BinaryGap
 #### 02 - Arrays
 #### 03 - Time Complexity
 #### 04 - Counting Elements
