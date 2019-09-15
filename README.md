@@ -15,9 +15,22 @@ Happy coding and enjoy!
 #### 01 - Iterations
 - [x] BinaryGap
 #### 02 - Arrays
+- [x] OddOccurrencesInArray
+- [X] CyclicRotation
 #### 03 - Time Complexity
+- [ ] FrogJmp
+- [ ] PermMissingElem
+- [ ] TapeEquilibrium
 #### 04 - Counting Elements
+- [ ] PermCheck
+- [ ] FrogRiverOne
+- [ ] MaxCounters
+- [ ] MissingInteger
 #### 05 - Prefix Sums
+- [ ] PassingCars
+- [ ] GenomicRangeQuery
+- [ ] MinAvgTwoSlice
+- [ ] CountDiv
 #### 06 - Sorting
 #### 07 - Stacks and Queues
 #### 08 - Leader
