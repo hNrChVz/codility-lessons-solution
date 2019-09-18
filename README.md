@@ -18,9 +18,9 @@ Happy coding and enjoy!
 - [x] OddOccurrencesInArray
 - [X] CyclicRotation
 #### 03 - Time Complexity
-- [ ] FrogJmp
-- [ ] PermMissingElem
-- [ ] TapeEquilibrium
+- [x] FrogJmp
+- [x] PermMissingElem
+- [x] TapeEquilibrium
 #### 04 - Counting Elements
 - [ ] PermCheck
 - [ ] FrogRiverOne
