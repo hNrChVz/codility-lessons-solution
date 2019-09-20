@@ -16,7 +16,7 @@ NOTE: (trust that) std:sort will use the best sorting algorithm
 
 */
 
-static int solution(vector<int>& A) {
+int solution(vector<int>& A) {
 	sort(A.begin(), A.end());
 
 	for (unsigned int i = 0; i < A.size(); i += 2) {

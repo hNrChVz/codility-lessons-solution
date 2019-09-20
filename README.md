@@ -22,10 +22,10 @@ Happy coding and enjoy!
 - [x] PermMissingElem
 - [x] TapeEquilibrium
 #### 04 - Counting Elements
-- [ ] PermCheck
-- [ ] FrogRiverOne
-- [ ] MaxCounters
-- [ ] MissingInteger
+- [x] PermCheck
+- [x] FrogRiverOne
+- [x] MaxCounters
+- [x] MissingInteger
 #### 05 - Prefix Sums
 - [ ] PassingCars
 - [ ] GenomicRangeQuery

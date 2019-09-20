@@ -1,6 +1,6 @@
 /*
 
-First step here is to get the value of the first half, that sum if array from 1 to N; Time complexity = O(N-1):
+First step here is to get the value of the second half, sum of array from 1 to N; Time complexity = O(N-1):
 for 1 to N {
 	secondHalf += A[i];
 }
@@ -29,7 +29,7 @@ Note: we omit the constant, see the time complexity reading material
 
 using namespace std;
 
-static int solution(vector<int>& A) {
+int solution(vector<int>& A) {
 	unsigned int i;
 	unsigned int N = A.size();
 	int secondHalf = 0;

@@ -7,7 +7,7 @@ using namespace std;
 Again, my trick here is to sort first, then iterate looking for the missing number;
 */
 
-static int solution(vector<int>& A) {
+int solution(vector<int>& A) {
 	int missing = A.size() + 1;
 
 	//sort it first
