@@ -7,7 +7,7 @@ In here, you can find solutions for [*codility* Lessons for Programmers](https:/
 
 For the actual lessons and its task/s please refer their [site](https://app.codility.com/programmers/lessons) and sign up as well, if you haven't done so.
 
-This is a *work-in-progress*. I'll try my very best to keep it updated (because you know, sometimes life gets in the way of my coding). Information and explanation about my solution can be found in the source code (as a comment of course). All solutions are written in C++ and got a 100% score after evaluation and I will only put solution that gets a 100% score in the future. Please keep in mind that I am not claiming that these are the best solutions, but these are the solutions that I came up with and that also works for me.
+This is a *work-in-progress*. I'll try my very best to keep it updated (because you know, sometimes life gets in the way of my coding). Information and explanation about my solution can be found in the source code (as a comment of course). All solutions are written in C++ and got a 100% score after evaluation and I will only put solution that gets a 100% score in the future. Please keep in mind that I am not claiming that these are the best solutions, but these are the solutions that worked for me.
 
 Happy coding and enjoy!
 
@@ -27,7 +27,7 @@ Happy coding and enjoy!
 - [x] MaxCounters
 - [x] MissingInteger
 #### 05 - Prefix Sums
-- [ ] PassingCars
+- [x] PassingCars
 - [ ] GenomicRangeQuery
 - [ ] MinAvgTwoSlice
 - [ ] CountDiv
