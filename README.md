@@ -28,9 +28,9 @@ Happy coding and enjoy!
 - [x] MissingInteger
 #### 05 - Prefix Sums
 - [x] PassingCars
-- [ ] GenomicRangeQuery
-- [ ] MinAvgTwoSlice
-- [ ] CountDiv
+- [x] GenomicRangeQuery
+- [x] MinAvgTwoSlice
+- [x] CountDiv *(TODO: provide solution using Prefix Sums)*
 #### 06 - Sorting
 #### 07 - Stacks and Queues
 #### 08 - Leader
