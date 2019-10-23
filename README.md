@@ -32,8 +32,18 @@ Happy coding and enjoy!
 - [x] MinAvgTwoSlice
 - [x] CountDiv *(TODO: provide solution using Prefix Sums)*
 #### 06 - Sorting
+- [x] MaxProductOfThree
+- [x] Distinct
+- [x] Triangle
+- [x] NumberOfDiscIntersections
 #### 07 - Stacks and Queues
+- [ ] Brackets
+- [ ] Fish
+- [ ] Nesting
+- [ ] StoneWall
 #### 08 - Leader
+- [ ] Dominator
+- [ ] EquiLeader
 #### 09 - Maximum Slice Problem
 #### 10 - Prime and Composite Numbers
 #### 11 - Sieve of Eratosthenes
