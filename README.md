@@ -37,10 +37,10 @@ Happy coding and enjoy!
 - [x] Triangle
 - [x] NumberOfDiscIntersections
 #### 07 - Stacks and Queues
-- [ ] Brackets
-- [ ] Fish
-- [ ] Nesting
-- [ ] StoneWall
+- [x] Brackets
+- [x] Fish
+- [x] Nesting
+- [x] StoneWall
 #### 08 - Leader
 - [ ] Dominator
 - [ ] EquiLeader
