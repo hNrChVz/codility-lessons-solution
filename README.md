@@ -42,8 +42,8 @@ Happy coding and enjoy!
 - [x] Nesting
 - [x] StoneWall
 #### 08 - Leader
-- [ ] Dominator
-- [ ] EquiLeader
+- [x] Dominator
+- [x] EquiLeader
 #### 09 - Maximum Slice Problem
 #### 10 - Prime and Composite Numbers
 #### 11 - Sieve of Eratosthenes
